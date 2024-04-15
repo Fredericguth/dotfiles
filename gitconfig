@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = frederic_guth@hotmail.com
+	name = Frederic Guth
